@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.cjavapolymorphism.bmethodoverriding;
+package com.rad.javacore.cjavapolymorphism.bmethodoverriding;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.djavaabstraction.binterface;
+package com.rad.javacore.djavaabstraction.binterface;
 
 public interface PrintableA4 extends Printable {
     /**

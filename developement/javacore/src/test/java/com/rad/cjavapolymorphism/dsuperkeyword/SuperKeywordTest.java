@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.cjavapolymorphism.dsuperkeyword;
+package com.rad.javacore.cjavapolymorphism.dsuperkeyword;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

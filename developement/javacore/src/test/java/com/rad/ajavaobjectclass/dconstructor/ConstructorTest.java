@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.ajavaobjectclass.dconstructor;
+package com.rad.javacore.ajavaobjectclass.dconstructor;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
@@ -31,7 +31,7 @@ public class ConstructorTest {
      */
     @Test
     void constructorParameterizedTest() {
-        constructor = new Constructor(1, "Motaharinia");
+        constructor = new Constructor(1, "rad");
         Assertions.assertEquals(1, constructor.getId());
     }
 }

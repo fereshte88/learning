@@ -3,7 +3,7 @@
 //If the name contains multiple words, it should be separated by dots (.) such as java.util, java.lang.
 //باید حروف کوچک مانند java ، lang باشد.
 //اگر نام شامل چندین کلمه باشد ، باید با نقاط (.) مانند java.util ، java.lang از هم جدا شود.
-package com.motaharinia.javacore.ajavaobjectclass.bnamingconvention;
+package com.rad.javacore.ajavaobjectclass.bnamingconvention;
 
 
 //Class:

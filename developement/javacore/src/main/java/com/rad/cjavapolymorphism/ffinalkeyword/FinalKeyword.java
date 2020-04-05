@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.cjavapolymorphism.ffinalkeyword;
+package com.rad.javacore.cjavapolymorphism.ffinalkeyword;
 
 //FinalKeyword:
 //The final keyword in java is used to restrict the user. The java final keyword can be used in many context. Final can be:

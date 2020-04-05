@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.djavaabstraction.binterface;
+package com.rad.javacore.djavaabstraction.binterface;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

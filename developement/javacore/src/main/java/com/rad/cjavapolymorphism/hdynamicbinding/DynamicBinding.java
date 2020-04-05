@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.cjavapolymorphism.hdynamicbinding;
+package com.rad.javacore.cjavapolymorphism.hdynamicbinding;
 
 //Static Binding and Dynamic Binding:
 //Connecting a method call to the method body is known as binding.

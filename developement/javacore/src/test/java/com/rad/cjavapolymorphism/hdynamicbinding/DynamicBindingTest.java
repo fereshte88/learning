@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.cjavapolymorphism.hdynamicbinding;
+package com.rad.javacore.cjavapolymorphism.hdynamicbinding;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.cjavapolymorphism.gruntimepolymorphism;
+package com.rad.javacore.cjavapolymorphism.gruntimepolymorphism;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

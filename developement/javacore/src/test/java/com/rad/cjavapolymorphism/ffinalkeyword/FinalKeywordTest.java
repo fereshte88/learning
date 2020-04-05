@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.cjavapolymorphism.ffinalkeyword;
+package com.rad.javacore.cjavapolymorphism.ffinalkeyword;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

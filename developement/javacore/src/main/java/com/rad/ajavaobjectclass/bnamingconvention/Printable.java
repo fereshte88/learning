@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.ajavaobjectclass.bnamingconvention;
+package com.rad.javacore.ajavaobjectclass.bnamingconvention;
 
 //Interface:
 //It should start with the uppercase letter.

@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.djavaabstraction.binterface;
+package com.rad.javacore.djavaabstraction.binterface;
 
 //Nested Interface in Java:
 //Note: An interface can have another interface which is known as a nested interface.

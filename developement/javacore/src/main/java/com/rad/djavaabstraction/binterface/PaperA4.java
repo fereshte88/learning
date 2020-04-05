@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.djavaabstraction.binterface;
+package com.rad.javacore.djavaabstraction.binterface;
 
 public class PaperA4 implements PrintableA4, Previewable, Showable, Drawable, Nested.NestedChild {
     /**

@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.ajavaobjectclass.cobjectandclass;
+package com.rad.javacore.ajavaobjectclass.cobjectandclass;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

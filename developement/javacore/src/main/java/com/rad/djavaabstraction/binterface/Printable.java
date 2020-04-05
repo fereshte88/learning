@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.djavaabstraction.binterface;
+package com.rad.javacore.djavaabstraction.binterface;
 
 //Interface in Java:
 //An interface in Java is a blueprint of a class. It has static constants and abstract methods.

@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.bjavainheritance.ainheritanceisa;
+package com.rad.javacore.bjavainheritance.ainheritanceisa;
 
 //Hierarchical Inheritance:
 //When two or more classes inherits a single class, it is known as hierarchical inheritance.

@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.cjavapolymorphism.einstanceinitializerblock;
+package com.rad.javacore.cjavapolymorphism.einstanceinitializerblock;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

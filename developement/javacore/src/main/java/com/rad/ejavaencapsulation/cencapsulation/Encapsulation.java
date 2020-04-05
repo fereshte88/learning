@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.ejavaencapsulation.cencapsulation;
+package com.rad.javacore.ejavaencapsulation.cencapsulation;
 
 //https://www.javatpoint.com/encapsulation
 //Encapsulation in Java is a process of wrapping code and data together into a single unit, for example, a capsule which is mixed of several medicines.

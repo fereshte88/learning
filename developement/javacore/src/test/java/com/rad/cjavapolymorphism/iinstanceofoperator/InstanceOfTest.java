@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.cjavapolymorphism.iinstanceofoperator;
+package com.rad.javacore.cjavapolymorphism.iinstanceofoperator;
 
 
 import org.junit.jupiter.api.Assertions;

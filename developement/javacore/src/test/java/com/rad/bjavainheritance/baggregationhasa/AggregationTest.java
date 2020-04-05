@@ -1,4 +1,4 @@
-package com.motaharinia.javacore.bjavainheritance.baggregationhasa;
+package com.rad.javacore.bjavainheritance.baggregationhasa;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
