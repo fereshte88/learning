@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.fthiskeyword;
+package com.rad.ajavaobjectclass.fthiskeyword;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

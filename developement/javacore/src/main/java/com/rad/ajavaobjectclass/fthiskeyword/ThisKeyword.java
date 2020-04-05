@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.fthiskeyword;
+package com.rad.ajavaobjectclass.fthiskeyword;
 
 //Here is given the 6 usage of java this keyword.
 //this can be used to refer current class instance variable.

@@ -1,4 +1,4 @@
-package com.rad.javacore.cjavapolymorphism.amethodoverloading;
+package com.rad.cjavapolymorphism.amethodoverloading;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.dconstructor;
+package com.rad.ajavaobjectclass.dconstructor;
 
 //In Java, a constructor is a block of codes similar to the method. It is called when an instance of the class is created.
 // At the time of calling constructor, memory for the object is allocated in the memory.

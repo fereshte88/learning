@@ -1,4 +1,4 @@
-package com.rad.javacore.bjavainheritance.ainheritanceisa;
+package com.rad.bjavainheritance.ainheritanceisa;
 
 //Why multiple inheritance is not supported in java?
 //To reduce the complexity and simplify the language, multiple inheritance is not supported in java.

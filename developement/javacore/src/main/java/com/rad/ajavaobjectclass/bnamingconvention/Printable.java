@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.bnamingconvention;
+package com.rad.ajavaobjectclass.bnamingconvention;
 
 //Interface:
 //It should start with the uppercase letter.

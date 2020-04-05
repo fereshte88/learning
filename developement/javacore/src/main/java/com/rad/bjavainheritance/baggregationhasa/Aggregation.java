@@ -1,4 +1,4 @@
-package com.rad.javacore.bjavainheritance.baggregationhasa;
+package com.rad.bjavainheritance.baggregationhasa;
 //Aggregation:
 //If a class have an entity reference, it is known as Aggregation. Aggregation represents HAS-A relationship.
 //Consider a situation, Employee object contains many informations such as id, name, emailId etc.

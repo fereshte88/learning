@@ -1,4 +1,4 @@
-package com.rad.javacore.djavaabstraction.binterface;
+package com.rad.djavaabstraction.binterface;
 
 //Multiple inheritance is not supported through class in java, but it is possible by an interface, why?
 //As we have explained in the inheritance chapter, multiple inheritance is not supported in the case of class because of ambiguity.

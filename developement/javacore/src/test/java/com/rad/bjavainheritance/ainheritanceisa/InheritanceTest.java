@@ -1,4 +1,4 @@
-package com.rad.javacore.bjavainheritance.ainheritanceisa;
+package com.rad.bjavainheritance.ainheritanceisa;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

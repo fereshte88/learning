@@ -1,4 +1,4 @@
-package com.rad.javacore.cjavapolymorphism.ccovariantreturntype;
+package com.rad.cjavapolymorphism.ccovariantreturntype;
 
 //The covariant return type specifies that the return type may vary in the same direction as the subclass.
 //Before Java5, it was not possible to override any method by changing the return type.

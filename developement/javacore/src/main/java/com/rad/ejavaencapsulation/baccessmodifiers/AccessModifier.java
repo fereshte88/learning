@@ -1,4 +1,4 @@
-package com.rad.javacore.ejavaencapsulation.baccessmodifiers;
+package com.rad.ejavaencapsulation.baccessmodifiers;
 
 //https://www.javatpoint.com/access-modifiers
 //There are two types of modifiers in Java: access modifiers and non-access modifiers.

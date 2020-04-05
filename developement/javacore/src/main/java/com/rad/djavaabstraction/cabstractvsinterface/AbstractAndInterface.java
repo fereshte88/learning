@@ -1,4 +1,4 @@
-package com.rad.javacore.djavaabstraction.cabstractvsinterface;
+package com.rad.djavaabstraction.cabstractvsinterface;
 
 //Abstract class and interface both are used to achieve abstraction where we can declare the abstract methods.
 //Abstract class and interface both can't be instantiated.

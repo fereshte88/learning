@@ -1,4 +1,4 @@
-package com.rad.javacore.cjavapolymorphism.ccovariantreturntype;
+package com.rad.cjavapolymorphism.ccovariantreturntype;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

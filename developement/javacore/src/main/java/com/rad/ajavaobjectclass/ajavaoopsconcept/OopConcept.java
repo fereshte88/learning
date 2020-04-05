@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.ajavaoopsconcept;
+package com.rad.ajavaobjectclass.ajavaoopsconcept;
 
 public class OopConcept {
 /*

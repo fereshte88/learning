@@ -1,4 +1,4 @@
-package com.rad.javacore.ejavaencapsulation.apackage;
+package com.rad.ejavaencapsulation.apackage;
 
 //https://www.javatpoint.com/package
 //A java package is a group of similar types of classes, interfaces and sub-packages.

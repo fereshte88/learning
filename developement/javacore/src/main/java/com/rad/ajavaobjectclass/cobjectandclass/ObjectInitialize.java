@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.cobjectandclass;
+package com.rad.ajavaobjectclass.cobjectandclass;
 
 //There are 3 ways to initialize object in Java.
 //By reference variable

@@ -1,4 +1,4 @@
-package com.rad.javacore.bjavainheritance.ainheritanceisa;
+package com.rad.bjavainheritance.ainheritanceisa;
 
 //Single Inheritance
 //When a class inherits another class, it is known as a single inheritance.

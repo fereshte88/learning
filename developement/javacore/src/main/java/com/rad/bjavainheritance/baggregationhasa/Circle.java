@@ -1,4 +1,4 @@
-package com.rad.javacore.bjavainheritance.baggregationhasa;
+package com.rad.bjavainheritance.baggregationhasa;
 
 public class Circle {
     Operation op;//aggregation

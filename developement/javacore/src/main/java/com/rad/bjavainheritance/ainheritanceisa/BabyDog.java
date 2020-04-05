@@ -1,4 +1,4 @@
-package com.rad.javacore.bjavainheritance.ainheritanceisa;
+package com.rad.bjavainheritance.ainheritanceisa;
 
 //Multilevel Inheritance:
 //When there is a chain of inheritance, it is known as multilevel inheritance.

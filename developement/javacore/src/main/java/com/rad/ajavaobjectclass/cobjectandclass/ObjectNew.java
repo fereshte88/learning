@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.cobjectandclass;
+package com.rad.ajavaobjectclass.cobjectandclass;
 
 //There are many ways to create an object in java. They are:
 //By new keyword

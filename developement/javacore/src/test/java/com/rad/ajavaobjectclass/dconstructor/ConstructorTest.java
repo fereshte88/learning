@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.dconstructor;
+package com.rad.ajavaobjectclass.dconstructor;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;

@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.estatickeyword;
+package com.rad.ajavaobjectclass.estatickeyword;
 
 //The static keyword in Java is used for memory management mainly. We can apply static keyword with variables, methods, blocks and nested classes.
 //The static keyword belongs to the class than an instance of the class.

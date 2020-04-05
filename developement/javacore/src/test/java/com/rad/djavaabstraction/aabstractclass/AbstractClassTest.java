@@ -1,6 +1,6 @@
-package com.rad.javacore.djavaabstraction.aabstractclass;
+package com.rad.djavaabstraction.aabstractclass;
 
-import com.rad.javacore.cjavapolymorphism.amethodoverloading.MethodOverloading;
+import com.rad.cjavapolymorphism.amethodoverloading.MethodOverloading;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

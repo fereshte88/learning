@@ -1,4 +1,4 @@
-package com.rad.javacore.djavaabstraction.binterface;
+package com.rad.djavaabstraction.binterface;
 
 //What is marker or tagged interface?
 //An interface which has no member is known as a marker or tagged interface, for example, Serializable, Cloneable, Remote, etc.

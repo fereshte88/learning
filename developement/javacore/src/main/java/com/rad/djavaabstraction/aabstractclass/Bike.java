@@ -1,4 +1,4 @@
-package com.rad.javacore.djavaabstraction.aabstractclass;
+package com.rad.djavaabstraction.aabstractclass;
 
 //Abstract class in Java:
 //A class which is declared with the abstract keyword is known as an abstract class in Java.

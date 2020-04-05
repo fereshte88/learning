@@ -1,4 +1,4 @@
-package com.rad.javacore.cjavapolymorphism.gruntimepolymorphism;
+package com.rad.cjavapolymorphism.gruntimepolymorphism;
 
 //Polymorphism in Java:
 //Polymorphism in Java is a concept by which we can perform a single action in different ways.

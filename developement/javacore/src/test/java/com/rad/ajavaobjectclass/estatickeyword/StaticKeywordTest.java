@@ -1,4 +1,4 @@
-package com.rad.javacore.ajavaobjectclass.estatickeyword;
+package com.rad.ajavaobjectclass.estatickeyword;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
