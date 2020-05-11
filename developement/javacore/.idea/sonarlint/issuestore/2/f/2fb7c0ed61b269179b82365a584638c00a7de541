@@ -1,0 +1,12 @@
+
+Tsquid:UselessImportCheck-"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+2squid:S1643o"Use a StringBuilder instead.(å“†X
+jsquid:S2095G"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ƒØÅøÿÿÿÿ
+|squid:S1149c"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«
+isquid:S20955"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¢Ôäôùÿÿÿÿ
+8squid:S1643:"Use a StringBuilder instead.(„÷ìŠÿÿÿÿÿ
+hsquid:S2095H"QUse try-with-resources or close this "SequenceInputStream" in a "finally" clause.(Ç”¯ø
+Tsquid:UselessImportCheck+"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+gsquid:S20956"QUse try-with-resources or close this "SequenceInputStream" in a "finally" clause.(Úš© 
+hsquid:S2095l"QUse try-with-resources or close this "SequenceInputStream" in a "finally" clause.(‡òğÉ
+isquid:S2095F"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾É•ùúÿÿÿÿ

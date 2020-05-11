@@ -1,0 +1,19 @@
+
+Asquid:S1659£"#Declare "state" on a separate line.(â«À38Ûø—¬.
+[
+squid:S106v"9Replace this use of System.out or System.err by a logger.(çß„ˆúÿÿÿÿ8Ò§Š¬.
+;squid:S2066ª"Make this inner class static(Ğ·ì¾8ß¤™¬.
+U
+squid:S106\"9Replace this use of System.out or System.err by a logger.(ùø¼8¹ å«.
+V
+squid:S106]"9Replace this use of System.out or System.err by a logger.(°¿¦ì8¹ å«.
+:squid:S2066`"Make this inner class static(áÿ“Ù8Ôæñ«.
+V
+squid:S106y"9Replace this use of System.out or System.err by a logger.(°¿¦ì8Ò§Š¬.
+Hsquid:S1948­")Make "address" transient or serializable.(Öú…À8ß¤™¬.
+@squid:S1659£""Declare "city" on a separate line.(â«À38Ûø—¬.
+;squid:S2066"Make this inner class static(”ü„Ÿ8‡¬.
+nsquid:S2095W"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¤Š¢¨8ê¾å«.
+rsquid:S2095s"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(¿ñœäúÿÿÿÿ8µßŠ¬.
+[squid:S1197p"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Ò§Š¬.
+lsquid:S2095V"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ûÕ¿Ì8ê¾å«.

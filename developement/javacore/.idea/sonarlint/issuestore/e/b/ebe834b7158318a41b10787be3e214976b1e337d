@@ -1,0 +1,5 @@
+
+@squid:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+Osquid:S1854"5Remove this useless assignment to local variable "i".(š•©áıÿÿÿÿ
+gsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÒòÜŸûÿÿÿÿ
+gsquid:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(ÒòÜŸûÿÿÿÿ

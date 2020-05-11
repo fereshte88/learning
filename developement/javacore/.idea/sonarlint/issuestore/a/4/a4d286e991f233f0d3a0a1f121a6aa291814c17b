@@ -1,0 +1,40 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.( Ó–øÿÿÿÿ8 È‚€ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü­ø«üÿÿÿÿ8Š´èÿŸ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰õÖâ8 È‚€ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(«»Ø†ûÿÿÿÿ8 È‚€ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶©Óøÿÿÿÿ8ÏÑìÿŸ.
+Zsquid:S3655"9Call "checkNull2.isPresent()" before accessing the value.(‘ºÑ—ûÿÿÿÿ8†óöÿŸ.
+}squid:S1192"\Define a constant instead of duplicating this literal "JAVA OPTIONAL CLASS EXAMPLE" 3 times.(“Ø«×úÿÿÿÿ8 È‚€ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(üòÂ‰ùÿÿÿÿ8 È‚€ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(á‹¶ùÿÿÿÿ8 È‚€ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷‘îÿÿÿÿÿ8 È‚€ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ŞõÑ“şÿÿÿÿ8 È‚€ .
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊŒ¯¸øÿÿÿÿ8Š´èÿŸ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾Ä÷òşÿÿÿÿ8ÏÑìÿŸ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(”Éµıüÿÿÿÿ8 È‚€ .
+Psquid:S1611"/Remove the parentheses around the "s" parameter(üòÂ‰ùÿÿÿÿ8 È‚€ .
+Psquid:S1611"/Remove the parentheses around the "s" parameter( Ó–øÿÿÿÿ8 È‚€ .
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿù÷Û8 È‚€ .
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ì™ò¼8Ò¡ôÿŸ.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦øí8Ò¡ôÿŸ.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ºÑ—ûÿÿÿÿ8Ò¡ôÿŸ.
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘¢µ8 È‚€ .
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦¶Ü‹ùÿÿÿÿ8“èÿŸ.

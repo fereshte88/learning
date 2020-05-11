@@ -1,0 +1,29 @@
+
+Vsquid:S3958ò"2Refactor the code so this stream pipeline is used.(‰ã¢™øÿÿÿÿ8±¢êñ.
+Gsquid:S1604µ"(Make this anonymous inner class a lambda(ÚØ•¹8ÃÏğ.
+vsquid:S1602s"SRemove useless curly braces around statement and then remove useless return keyword(¼­Îóşÿÿÿÿ8½úÛï.
+Tsquid:S1611ª"5Remove the parentheses around the "message" parameter(°Ÿ‰­8¬–Äğ.
+}squid:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÆ½Ìùÿÿÿÿ8à¤õğ.
+rsquid:S1602…"SRemove useless curly braces around statement and then remove useless return keyword(˜Ôá•8·œöï.
+Ksquid:S1604]"(Make this anonymous inner class a lambda(¡ŞÙæøÿÿÿÿ8£€‘ô.
+vsquid:S1602i"SRemove useless curly braces around statement and then remove useless return keyword(óÉ“³ùÿÿÿÿ8ÈÕ£ı.
+Psquid:S1612œ",Replace this lambda with a method reference.(Éİ¶ãùÿÿÿÿ8¡‹îı.
+@squid:S1643Ü"Use a StringBuilder instead.(ü‰ÒÄÿÿÿÿÿ8õÎëğ.
+Psquid:S1602†",Remove useless curly braces around statement(€¡£şşÿÿÿÿ8º·Ÿñ.
+W
+squid:S106·"9Replace this use of System.out or System.err by a logger.(®şË±8ÃÏğ.
+Vsquid:S1611œ"2Remove the parentheses around the "item" parameter(Éİ¶ãùÿÿÿÿ8ÊÖÑı.
+msquid:S3252Š"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ƒ¼–÷úÿÿÿÿ8…® ñ.
+osquid:CommentedOutCodeLineû"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ8¯œñ.
+Usquid:S1611"2Remove the parentheses around the "name" parameter(õ¹Äûşÿÿÿÿ8Í‰ìï.
+esquid:S1854ò"ARemove this useless assignment to local variable "filtered_data".(‰ã¢™øÿÿÿÿ8±¢êñ.
+rsquid:S1602Ø"SRemove useless curly braces around statement and then remove useless return keyword(˜û¶ê8šøÚğ.
+vsquid:S00117ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ã¢™øÿÿÿÿ8à¤õğ.
+}squid:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(íÆ½Ìùÿÿÿÿ8šøÚğ.
+isquid:HiddenFieldCheckô":Rename "result" which hides the field declared at line 85.(Æ·¸ñıÿÿÿÿ8îìşı.
+Ksquid:S1602½",Remove useless curly braces around statement(í¬çÔ8ÃÏğ.
+Vsquid:S1481ò"2Remove this unused "filtered_data" local variable.(‰ã¢™øÿÿÿÿ8±¢êñ.
+ssquid:S00100˜"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¸¹Ğüÿÿÿÿ8›÷«ğ.
+W
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(»œš‚8ÃÏğ.
+vsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(õ¹Äûşÿÿÿÿ8Í‰ìï.

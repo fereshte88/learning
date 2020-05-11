@@ -1,0 +1,6 @@
+
+qsquid:S2095Q"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.( †Όκϋÿÿÿÿ8λτ”¨.
+Fsquid:S1148C"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8ΉΘ”¨.
+qsquid:S2095H"NUse try-with-resources or close this "RandomAccessFile" in a "finally" clause.(Ψϊ’¨όÿÿÿÿ8λτ”¨.
+[
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ιƒ΅όÿÿÿÿ8µς“¨.

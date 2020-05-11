@@ -1,0 +1,8 @@
+
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(–νϊÿÿÿÿ8³Σε§.
+ksquid:S20951"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(εδ¨¥8“Δζ§.
+qsquid:S20950"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(‘δ–ÿÿÿÿÿ8ΰ¥ζ§.
+Fsquid:S1148>"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8³Σε§.
+[
+squid:S106<"9Replace this use of System.out or System.err by a logger.(“υ·‹όÿÿÿÿ8³Σε§.

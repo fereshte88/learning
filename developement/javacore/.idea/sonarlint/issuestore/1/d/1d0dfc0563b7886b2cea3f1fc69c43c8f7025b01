@@ -1,0 +1,6 @@
+
+isquid:S2095="RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(«ÂÁý
+N
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ùø¼
+Osquid:S1197?"8Move the array designator from the variable to the type.( ©ÃÇ
+Tsquid:S1197;"8Move the array designator from the variable to the type.(ùï¾Žÿÿÿÿÿ

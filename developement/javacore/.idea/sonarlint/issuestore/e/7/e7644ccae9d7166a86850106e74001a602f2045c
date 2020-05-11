@@ -1,0 +1,10 @@
+
+dsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“ğ”.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍşÿÿÿÿ8“ğ”.
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Î…º˜øÿÿÿÿ8ó¼ğ”.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù •8­”ùğ”.
+Xsquid:S1161":Add the "@Override" annotation above this method signature(“–ış8“ğ”.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ—İ‰8“ğ”.

@@ -1,0 +1,27 @@
+
+\
+squid:S106ê"9Replace this use of System.out or System.err by a logger.(«î•½ıÿÿÿÿ8øæáòŸ.
+\
+squid:S106ò"9Replace this use of System.out or System.err by a logger.(¸¼Õ¸úÿÿÿÿ8øæáòŸ.
+\
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(¼¯±üøÿÿÿÿ8ÍÔìš.
+Jsquid:S1612ï",Replace this lambda with a method reference.(ª÷˜8øæáòŸ.
+vsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÆùƒüÿÿÿÿ8øæáòŸ.
+qsquid:S00117ß"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß·ÙÇ8øæáòŸ.
+W
+squid:S106Ÿ"9Replace this use of System.out or System.err by a logger.(²Ï‡•8±ÍÆòŸ.
+W
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(Î×ß8ÛĞòŸ.
+Jsquid:S1172š"+Remove this unused method parameter "args".(’Èî8‹ûôŸ.
+qsquid:S00117å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú­÷8øæáòŸ.
+?squid:S1643+"Use a StringBuilder instead.(¦‡ÊÁıÿÿÿÿ8û•´—.
+Usquid:S1153–"1Directly append the argument of String.valueOf().(ƒ©Šıÿÿÿÿ8ö©Úš.
+W
+squid:S106¯"9Replace this use of System.out or System.err by a logger.(µ˜›¼8¤ç—œ.
+Vsquid:S3655"7Call "Optional#isPresent()" before accessing the value.(ıÏ8Ó•Êš.
+Usquid:S1153–"1Directly append the argument of String.valueOf().(ƒ©Šıÿÿÿÿ8ëóÙš.
+Vsquid:S3655“"7Call "Optional#isPresent()" before accessing the value.(Ë„³ˆ8Ó•Êš.
+Osquid:S1172µ"+Remove this unused method parameter "args".(À»Áùÿÿÿÿ8ª“ÇòŸ.
+esquid:S1192Ù"FDefine a constant instead of duplicating this literal "Geeks" 3 times.(û³å­8¨áğŸ.
+Osquid:S1172Ü"+Remove this unused method parameter "args".(ÑÜœ“úÿÿÿÿ8ÇÅöôŸ.
+Ksquid:S1612¢",Replace this lambda with a method reference.(ê¾Éí8·ªñŸ.

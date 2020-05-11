@@ -1,0 +1,8 @@
+
+ssquid:S20951"PUse try-with-resources or close this "CustomFilterWriter" in a "finally" clause.(†Èƒüÿÿÿÿ8úÿÃß™.
+?squid:S16438"Use a StringBuilder instead.(Öè¤¤ıÿÿÿÿ8¢–¥š.
+jsquid:S20955"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ùÄŒ¾8ØÇÃß™.
+Fsquid:S1148<"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ØÇÃß™.
+ksquid:S20950"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(Ç¬Îçúÿÿÿÿ8úÿÃß™.
+]squid:S1161(":Add the "@Override" annotation above this method signature(×ƒÏúÿÿÿÿ8úÿÃß™.
+ksquid:S20954"HUse try-with-resources or close this "FileReader" in a "finally" clause.(è˜­üÿÿÿÿ8ØÇÃß™.

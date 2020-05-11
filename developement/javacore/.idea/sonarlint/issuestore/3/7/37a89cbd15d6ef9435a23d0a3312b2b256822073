@@ -1,0 +1,13 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(°¿¦ì8³îŽë˜.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€Þ†•ýÿÿÿÿ8³îŽë˜.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(òºé¥þÿÿÿÿ8³îŽë˜.
+Vsquid:S1161":Add the "@Override" annotation above this method signature(“–ýþ8Æúñ÷”.
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛÀÑÛ8³îŽë˜.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÚÅ†ëÿÿÿÿÿ8³îŽë˜.
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(°¿¦ì8åºî÷”.
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤¦‘äüÿÿÿÿ8ñÜõ÷”.
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îÕ–…øÿÿÿÿ8³îŽë˜.

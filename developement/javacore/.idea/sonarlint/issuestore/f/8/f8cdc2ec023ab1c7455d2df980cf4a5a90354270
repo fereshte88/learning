@@ -1,0 +1,23 @@
+
+€squid:S4276q"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(ışœğùÿÿÿÿ8›“õ.
+Tsquid:S1854Z"6Remove this useless assignment to local variable "t1".(”¶‹÷8˜á­ÿ.
+~squid:S4276s"[Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Float>'(°…ı¼úÿÿÿÿ8›“õ.
+|squid:S4276¦"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(í¸şí8óÔ®ö.
+V
+squid:S106:"9Replace this use of System.out or System.err by a logger.(¤«ºÑ8æ·Ñö.
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(Úé‰Ğÿÿÿÿÿ8Â‰¶ô.
+]squid:S3400Š"9Remove this method and declare a constant for this value.(¶ı•“ıÿÿÿÿ8ø›„ö.
+Wsquid:S3400H"9Remove this method and declare a constant for this value.(ğò…«8ÉØöó.
+V
+squid:S106x"9Replace this use of System.out or System.err by a logger.(àÓ¨¨8›“õ.
+‚squid:S1488§"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÛÛ‡ñùÿÿÿÿ8’à³ö.
+[
+squid:S106w"9Replace this use of System.out or System.err by a logger.(›êŞÂúÿÿÿÿ8›“õ.
+€squid:S4276h"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(†‚õİûÿÿÿÿ8¿‚íô.
+[
+squid:S106y"9Replace this use of System.out or System.err by a logger.(…ÚÇˆıÿÿÿÿ8›“õ.
+\
+squid:S106›"9Replace this use of System.out or System.err by a logger.(‰Š¾ùùÿÿÿÿ8­»¢ö.
+Esquid:S1481Z"'Remove this unused "t1" local variable.(”¶‹÷8˜á­ÿ.
+squid:S1488i"^Immediately return this expression instead of assigning it to the temporary variable "result".(ÛÛ‡ñùÿÿÿÿ8À²ùô.

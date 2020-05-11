@@ -1,0 +1,5 @@
+
+9squid:S1643B"Use a StringBuilder instead.(ÂìÜX8Ô‰±çö.
+ssquid:S2095?"PUse try-with-resources or close this "CustomFilterReader" in a "finally" clause.(¢™ÿë¸ˇˇˇˇ8õ°’ﬂô.
+Xsquid:S11612":Add the "@Override" annotation above this method signature(çƒÖ©8ìÿ‘ﬂô.
+fsquid:S2095>"HUse try-with-resources or close this "FileReader" in a "finally" clause.(ıù”Ω8õ°’ﬂô.

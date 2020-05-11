@@ -1,0 +1,11 @@
+
+gsquid:S2095+"IUse try-with-resources or close this "PipedWriter" in a "finally" clause.(úâ¦¥8µ§þÝ™.
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(É¸ž¦ûÿÿÿÿ8ŸÃýÝ™.
+Fsquid:S1604:"(Make this anonymous inner class a lambda(ªö©8ŸÃýÝ™.
+Msquid:S001085")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ŸÃýÝ™.
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ý™øøÿÿÿÿ8ŸÃýÝ™.
+Fsquid:S1604-"(Make this anonymous inner class a lambda(ôÔ±Ç8ŸÃýÝ™.
+Msquid:S00108>")Either remove or fill this block of code.(±Ÿ—±ÿÿÿÿÿ8ŸÃýÝ™.
+lsquid:S2095*"IUse try-with-resources or close this "PipedReader" in a "finally" clause.(ñÒ·¤úÿÿÿÿ8µ§þÝ™.
